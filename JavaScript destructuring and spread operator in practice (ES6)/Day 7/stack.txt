@@ -1,0 +1,7 @@
+Stack is LIFO (Last In First Out)
+
+Stack Usage : 
+Browser history tracking 
+Undo operation when typing 
+Expression conversions
+Call stack in javascript runtime

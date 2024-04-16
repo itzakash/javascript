@@ -17,6 +17,6 @@ const binarySearch = (arr, searchElement) => {
 
 const arr = [2, 4, 5, 7, 9, 12, 45];
 
-console.log(binarySearch(arr, 17));
+console.log(binarySearch(arr, 7));
 
 // BigInt(O) = O(logn)
